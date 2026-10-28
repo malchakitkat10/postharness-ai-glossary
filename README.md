@@ -1,2 +1,7 @@
-# postharness-ai-glossary
-포스트하네스 AI 용어사전 — AI 주요 용어와 개념을 한국어로 정리했습니다.
+# 포스트하네스 AI 용어사전
+
+AI 기사에서 만나는 주요 용어와 개념을 한국어로 정리한 포스트하네스(POSTHARNESS)의 AI 용어사전입니다.
+
+토큰, 파운데이션 모델, 사전학습, 사후학습, 컨텍스트, 프롬프트, 에이전트를 살펴볼 수 있습니다.
+
+**[AI 용어사전 바로가기](https://postharness.com/guide/glossary/)**
